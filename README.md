@@ -10,7 +10,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class. 
 
-<img src="https://github.com/trexwithoutt/Artificial_Neural_Network_detecting_MNIST/blob/master/cifar-10.png" width="600">
+<img src="https://github.com/trexwithoutt/Convolution-Neural-Network-from-Scratch-and-TensorFlow-Implementation-on-CIFAR10/blob/master/cifar10.png" width="600">
 
 ## Files
 
